@@ -1,0 +1,6 @@
+python subdomain_scanner.py
+python dir_scanner.py
+python sql_injection_test.py
+python xss_scanner.py
+
+python generate_report.py
